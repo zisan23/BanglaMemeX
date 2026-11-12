@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+type: article
+title: "BanglaMemeX: Advancing Cultural Metaphoric Image Interpretation in Bangla with a Multimodal Explainable Dataset"
+authors:
+  - family-names: Sakib
+    given-names: Md. Sadman
+    affiliation: University of Dhaka
+  - family-names: Mahmud
+    given-names: Zisan
+    affiliation: University of Dhaka
+  - family-names: Arefin
+    given-names: Md. Fahim
+    affiliation: University of Dhaka
+  - family-names: Fahim
+    given-names: Md
+    affiliation: University of Texas at Dallas
+collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+publisher:
+  name: Association for Computational Linguistics
+year: 2026
+month: 10
+start: 17525
+end: 17561
+url: "https://aclanthology.org/2026.findings-emnlp.827/"
+keywords:
+  - Bangla memes
+  - multimodal dataset
+  - vision-language models
+  - metaphor interpretation
+  - explainable AI
